@@ -1,0 +1,6 @@
+<bibliotheque>
+    <livre genre="aventure" id="1">
+        <auteur>auteur1</auteur>
+        <titre>titre1</titre>
+    </livre>
+<livre id="2" genre="aventure"><auteur>victor hugo</auteur><titre>antigone </titre></livre><livre id="3" genre="drame"><auteur>ahmed </auteur><titre>boites a merveilles</titre></livre></bibliotheque>
